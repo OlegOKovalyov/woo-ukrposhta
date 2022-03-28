@@ -3,7 +3,8 @@ Contributors: bandido, olegkovalyov
 Tags: ukrposhta, delivery, укрпошта, укрпочта, міжнародна, доставка
 Requires at least: 5.0
 Tested up to: 5.8
-Stable tag: 1.6.17
+Requires PHP: 7.0
+Stable tag: 1.6.18
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,6 +83,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 5. Сторінка замовлення
 
 == Що нового? ==
+
+= 1.16.18 =
+* [dev] оновлений freemius sdk до v2.4.3
 
 = 1.6.17 =
 * [fix] виправлена логіка плагіну, коли на сайті видалене поле Країна зі сторінки Checkout

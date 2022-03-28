@@ -3,7 +3,7 @@
  * Plugin Name: Ukrposhta
  * Plugin URI: https://morkva.co.ua/shop/woo-ukrposhta-pro-lifetime
  * Description:  Генеруйте накладні просто зі сторінки замовлення і зекономте тонну часу на відділенні при відправці.
- * Version: 1.6.17
+ * Version: 1.6.18
  * Author: Morkva
  * Text Domain: woo-ukrposhta-pro
  * Domain Path: /languages
